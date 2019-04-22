@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Mike's Patterns"
+AuthUserFile "/home/manicmike/.htpasswds/my_patterns/passwd"
+require user mike
